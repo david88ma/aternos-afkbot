@@ -2,9 +2,9 @@
 	"host": "david88m.aternos.me",
 	"port": "29855",
 	"username": "Bertoldo",
-        "host": "david88mcreativa.aternos.me",
-	"port": "25831",
-	"username": "Bertoldo Creativo",
+        //"host": "david88mcreativa.aternos.me",
+	//"port": "25831",
+	//"username": "Bertoldo Creativo",
 	"logger": [ true
 		, "true : displays not necessary logs. (ex: key input logs)",
 		"false : displays only necessary logs."
